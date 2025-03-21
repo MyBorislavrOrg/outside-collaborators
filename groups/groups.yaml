@@ -1,9 +1,11 @@
 ---
 
 devops/write:
-  - nookyo
   - rparf
   - andyroode
 
 devops/admin:
   - borislavr
+
+devops/maintain:
+  - nookyo
