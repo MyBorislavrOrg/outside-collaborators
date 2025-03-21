@@ -6,6 +6,9 @@ demo-repository:
   devops/admin:
     type: group
     permissions: admin
+  devops/maintain:
+    type: group
+    permissions: maintain
 qubership-integration-engine:
   devops/write:
     type: group
@@ -13,6 +16,9 @@ qubership-integration-engine:
   devops/admin:
     type: group
     permissions: admin
+  devops/maintain:
+    type: group
+    permissions: maintain
 qubership-core-utils:
   devops/write:
     type: group
@@ -20,6 +26,9 @@ qubership-core-utils:
   devops/admin:
     type: group
     permissions: admin
+  devops/maintain:
+    type: group
+    permissions: maintain
 qubership-integration-variables-management:
   devops/write:
     type: group
@@ -27,3 +36,6 @@ qubership-integration-variables-management:
   devops/admin:
     type: group
     permissions: admin
+  devops/maintain:
+    type: group
+    permissions: maintain
