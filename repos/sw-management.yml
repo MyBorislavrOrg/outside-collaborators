@@ -1,0 +1,16 @@
+sw-management:
+  ami-iit/sw-dev:
+    type: "group"
+    permissions: "read"
+
+  hsp-iit/sw-dev:
+    type: "group"
+    permissions: "read"
+
+  hsp-iit/ergocub:
+    type: "group"
+    permissions: "read"
+
+  edpr-iit/sw-dev:
+    type: "group"
+    permissions: "read"   
