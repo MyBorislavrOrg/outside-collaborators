@@ -1,0 +1,29 @@
+---
+demo-repository:
+  devops/write:
+    type: group
+    permissions: write
+  devops/admin:
+    type: group
+    permissions: admin
+qubership-integration-engine:
+  devops/write:
+    type: group
+    permissions: write
+  devops/admin:
+    type: group
+    permissions: admin
+qubership-core-utils:
+  devops/write:
+    type: group
+    permissions: write
+  devops/admin:
+    type: group
+    permissions: admin
+qubership-integration-variables-management:
+  devops/write:
+    type: group
+    permissions: write
+  devops/admin:
+    type: group
+    permissions: admin
